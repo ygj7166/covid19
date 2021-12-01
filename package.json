@@ -1,5 +1,5 @@
 {
-  "name": "covid_chart",
+  "name": "covid19",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,9 +13,6 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
-  },
-  "devDependancies": {
-    "gh-pages": "^3.1.0"
   },
   "homepage": "https://ygj7166.github.io/covid19/",
   "scripts": {
